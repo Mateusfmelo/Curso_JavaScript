@@ -11,4 +11,4 @@
     
 #
     
-**Atualizarei o repositório de acordo com o andamento do curso, se ainda estiver vazio, estou organizando os arquivos para fazer upload**
+**Atualizarei o repositório de acordo com o andamento do curso**
