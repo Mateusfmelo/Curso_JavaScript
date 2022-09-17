@@ -1,0 +1,7 @@
+Existem três formas de definir uma String em JS ("", '', ``)
+
+window.alert() Dispara um alerta
+
+window.confirm() Janela de confirmação
+
+window.prompt() Forma de interagir com usuário
