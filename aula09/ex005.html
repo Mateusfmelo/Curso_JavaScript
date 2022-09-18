@@ -17,7 +17,7 @@
     <h1>Iniciando estudos com DOM</h1>
     <p>Aqui vai o resultado</p>
     <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript</p>
-    <div>Clique em mim</div>
+    <div id="msg">Clique em mim</div>
     <script>
 
         /*window.document.write("Olá mundo!") // Adicionando componentes pelo Java Script*/
@@ -31,6 +31,10 @@
         window.document.write("Está escrito assim: " + p1.innerText) // Exibindo parágrafo no browser como texto. Se usar innerHTML virá com a formatação
         */
         
+        /*  
+        var d = window.document.querySelector("div#msg") // Selecionando usando querySelector. Mesma sintaxe do css
+        d.style.color = 'blue'
+        */
     </script>
 </body>
 </html>
