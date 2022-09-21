@@ -9,6 +9,7 @@
     * Operadores aritméticos
     * DOM (Document Object Model) 
     * Seleção de objetos
+    * Estrutura de condição
     
 #
     
