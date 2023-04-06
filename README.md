@@ -11,6 +11,8 @@
     * Seleção de objetos
     * Estrutura de condição
     * Estrutura de repetição
+    * Variáveis simples
+    * Variáveis compostas
     
 #
     
