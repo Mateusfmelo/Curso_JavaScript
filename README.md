@@ -13,7 +13,8 @@
     * Estrutura de repetição
     * Variáveis simples
     * Variáveis compostas
-    
+    * Funções
+    * Objetos
 #
     
 **Atualizarei o repositório de acordo com o andamento do curso**
